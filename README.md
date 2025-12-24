@@ -1,0 +1,2 @@
+# naiverag-pgvectorscale
+Simple NaiveRAG
